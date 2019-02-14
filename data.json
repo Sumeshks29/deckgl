@@ -1,0 +1,677 @@
+{
+  "0": {
+    "Latitude": "18.75644",
+    "Longitude": 84.422423,
+    "STATION_NAME": "PALASA",
+    "STATION_CODE": "PSA",
+    "DIVISION": "KUR",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "1": {
+    "Latitude": "18.408939",
+    "Longitude": 83.903818,
+    "STATION_NAME": "SRIKAKULAM ROAD",
+    "STATION_CODE": "CHE",
+    "DIVISION": "WAT",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "2": {
+    "Latitude": "18.1066576",
+    "Longitude": 83.39555059999999,
+    "STATION_NAME": "VIZIANAGARAM",
+    "STATION_CODE": "VZM",
+    "DIVISION": "WAT",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "3": {
+    "Latitude": "17.694711",
+    "Longitude": 83.008556,
+    "STATION_NAME": "ANAKAPALLE                                        ",
+    "STATION_CODE": "AKP ",
+    "DIVISION": "BZA       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "4": {
+    "Latitude": "14.6864093",
+    "Longitude": 77.5952527,
+    "STATION_NAME": "ANANTAPUR                                        ",
+    "STATION_CODE": "ATP ",
+    "DIVISION": "GTL",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "5": {
+    "Latitude": "16.5475412",
+    "Longitude": 81.51901170000001,
+    "STATION_NAME": "BHIMAVARAM TOWN                                   ",
+    "STATION_CODE": "BVRT",
+    "DIVISION": "BZA       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "6": {
+    "Latitude": "15.8313436",
+    "Longitude": 80.3543806,
+    "STATION_NAME": "CHIRALA                                           ",
+    "STATION_CODE": "CLX ",
+    "DIVISION": "BZA       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "7": {
+    "Latitude": "14.4516596",
+    "Longitude": 78.8292391,
+    "STATION_NAME": "CUDDAPAH                                          ",
+    "STATION_CODE": "HX  ",
+    "DIVISION": "GTL",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "8": {
+    "Latitude": "16.718058",
+    "Longitude": 81.119576,
+    "STATION_NAME": "ELURU                                             ",
+    "STATION_CODE": "EE  ",
+    "DIVISION": "BZA       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "9": {
+    "Latitude": "14.1486494",
+    "Longitude": 79.8456227,
+    "STATION_NAME": "GUDUR JN.                                         ",
+    "STATION_CODE": "GDR ",
+    "DIVISION": "BZA       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "10": {
+    "Latitude": "15.1755264",
+    "Longitude": 77.3667171,
+    "STATION_NAME": "GUNTAKAL JN.                                      ",
+    "STATION_CODE": "GTL ",
+    "DIVISION": "GTL",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "11": {
+    "Latitude": "16.3005246",
+    "Longitude": 80.44273659999999,
+    "STATION_NAME": "GUNTUR JN.                                        ",
+    "STATION_CODE": "GNT ",
+    "DIVISION": "GNT       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "12": {
+    "Latitude": "16.9674599",
+    "Longitude": 82.2333718,
+    "STATION_NAME": "KAKINADA TOWN                                     ",
+    "STATION_CODE": "CCT ",
+    "DIVISION": "BZA       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "13": {
+    "Latitude": "17.9747022",
+    "Longitude": 79.5111795,
+    "STATION_NAME": "KAZIPET JN.                                       ",
+    "STATION_CODE": "KZJ ",
+    "DIVISION": "SC        ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "14": {
+    "Latitude": "17.2487263",
+    "Longitude": 80.1391447,
+    "STATION_NAME": "KHAMMAM",
+    "STATION_CODE": "KMT",
+    "DIVISION": "SC        ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "15": {
+    "Latitude": "15.8324664",
+    "Longitude": 78.03246829999999,
+    "STATION_NAME": "KURNOOL TOWN                                      ",
+    "STATION_CODE": "KRNT",
+    "DIVISION": "HYB       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "16": {
+    "Latitude": "17.6904098",
+    "Longitude": 83.1943724,
+    "STATION_NAME": "MANCHIRYAL                                        ",
+    "STATION_CODE": "MCI ",
+    "DIVISION": "SC        ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "17": {
+    "Latitude": "14.4425987",
+    "Longitude": 79.986456,
+    "STATION_NAME": "NELLORE                                           ",
+    "STATION_CODE": "NLR ",
+    "DIVISION": "BZA       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "18": {
+    "Latitude": "18.6787573",
+    "Longitude": 78.1035955,
+    "STATION_NAME": "NIZAMABAD                                         ",
+    "STATION_CODE": "NZB ",
+    "DIVISION": "HYB       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "19": {
+    "Latitude": "15.4975651",
+    "Longitude": 80.05706459999999,
+    "STATION_NAME": "ONGOLE                                            ",
+    "STATION_CODE": "OGL ",
+    "DIVISION": "BZA       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "20": {
+    "Latitude": "16.9842754",
+    "Longitude": 81.7838571,
+    "STATION_NAME": "RAJAHMUNDRY                                       ",
+    "STATION_CODE": "RJY ",
+    "DIVISION": "BZA       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "21": {
+    "Latitude": "13.6366028",
+    "Longitude": 79.5065922,
+    "STATION_NAME": "RENIGUNTA                                         ",
+    "STATION_CODE": "RU  ",
+    "DIVISION": "GTL",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "22": {
+    "Latitude": "17.0453224",
+    "Longitude": 82.1691189,
+    "STATION_NAME": "SAMALKOT JN.                                      ",
+    "STATION_CODE": "SLO ",
+    "DIVISION": "BZA       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "23": {
+    "Latitude": "16.8102053",
+    "Longitude": 81.52661479999999,
+    "STATION_NAME": "TADEPALLIGUDEM                                    ",
+    "STATION_CODE": "TDD ",
+    "DIVISION": "BZA       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "24": {
+    "Latitude": "16.242093",
+    "Longitude": 80.64063,
+    "STATION_NAME": "TENALI JN.                                        ",
+    "STATION_CODE": "TEL ",
+    "DIVISION": "BZA       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "25": {
+    "Latitude": "17.355267",
+    "Longitude": 82.54293249999999,
+    "STATION_NAME": "TUNI                                              ",
+    "STATION_CODE": "TUNI",
+    "DIVISION": "BZA       ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "26": {
+    "Latitude": "17.973252",
+    "Longitude": 79.60570799999999,
+    "STATION_NAME": "WARANGAL                                          ",
+    "STATION_CODE": "WL  ",
+    "DIVISION": "SC        ",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "27": {
+    "Latitude": "14.1609808",
+    "Longitude": 77.7588363,
+    "STATION_NAME": "SSP NILAYAM",
+    "STATION_CODE": "SSPN",
+    "DIVISION": "SBC",
+    "STATE": "ANDHRA PRADESH",
+    "CATEGORY": "A"
+  },
+  "28": {
+    "Latitude": "26.5020363",
+    "Longitude": 90.96472209999999,
+    "STATION_NAME": "BARPETA ROAD ",
+    "STATION_CODE": "BPRD",
+    "DIVISION": "RNY",
+    "STATE": "ASSAM",
+    "CATEGORY": "A"
+  },
+  "29": {
+    "Latitude": "26.4694794",
+    "Longitude": 90.56064570000001,
+    "STATION_NAME": "BONGAIGAON ",
+    "STATION_CODE": "BNGN",
+    "DIVISION": "RNY",
+    "STATE": "ASSAM",
+    "CATEGORY": "A"
+  },
+  "30": {
+    "Latitude": "27.4643753",
+    "Longitude": 94.9365535,
+    "STATION_NAME": "DIBRUGARH TOWN",
+    "STATION_CODE": "DBRT",
+    "DIVISION": "TSK",
+    "STATE": "ASSAM",
+    "CATEGORY": "A"
+  },
+  "31": {
+    "Latitude": "26.750139",
+    "Longitude": 94.21628270000001,
+    "STATION_NAME": "JORHAT TOWN",
+    "STATION_CODE": "JTTN",
+    "DIVISION": "TSK",
+    "STATE": "ASSAM",
+    "CATEGORY": "A"
+  },
+  "32": {
+    "Latitude": "26.157295",
+    "Longitude": 91.6920453,
+    "STATION_NAME": "KAMAKHYA",
+    "STATION_CODE": "KYQ",
+    "DIVISION": "LMG",
+    "STATE": "ASSAM",
+    "CATEGORY": "A"
+  },
+  "33": {
+    "Latitude": "25.7505782",
+    "Longitude": 93.17655390000002,
+    "STATION_NAME": "LUMDING",
+    "STATION_CODE": "LMG",
+    "DIVISION": "LMG",
+    "STATE": "ASSAM",
+    "CATEGORY": "A"
+  },
+  "34": {
+    "Latitude": "26.4472785",
+    "Longitude": 91.6064099,
+    "STATION_NAME": "RANGIYA JN. ",
+    "STATION_CODE": "RNY",
+    "DIVISION": "RNY",
+    "STATE": "ASSAM",
+    "CATEGORY": "A"
+  },
+  "35": {
+    "Latitude": "24.8300535",
+    "Longitude": 92.7873955,
+    "STATION_NAME": "SILCHAR",
+    "STATION_CODE": "SCL",
+    "DIVISION": "LMG",
+    "STATE": "ASSAM",
+    "CATEGORY": "A"
+  },
+  "36": {
+    "Latitude": "27.4796344",
+    "Longitude": 95.3372848,
+    "STATION_NAME": "TINSUKIA",
+    "STATION_CODE": "TSK",
+    "DIVISION": "TSK",
+    "STATE": "ASSAM",
+    "CATEGORY": "A"
+  },
+  "37": {
+    "Latitude": "24.8559708",
+    "Longitude": 84.3287313,
+    "STATION_NAME": "ANUGRAHA NARAYAN ROAD",
+    "STATION_CODE": "AUBR",
+    "DIVISION": "MGS",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "38": {
+    "Latitude": "25.5487958",
+    "Longitude": 84.6613775,
+    "STATION_NAME": "ARA JN.",
+    "STATION_CODE": "ARA",
+    "DIVISION": "DNR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "39": {
+    "Latitude": "25.4558729",
+    "Longitude": 85.53260300000001,
+    "STATION_NAME": "BAKHTIYARPUR JN.",
+    "STATION_CODE": "BKP",
+    "DIVISION": "DNR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "40": {
+    "Latitude": "25.4620441",
+    "Longitude": 85.9875962,
+    "STATION_NAME": "BARAUNI JN.",
+    "STATION_CODE": "BJU",
+    "DIVISION": "SEE",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "41": {
+    "Latitude": "26.8053995",
+    "Longitude": 84.52238270000001,
+    "STATION_NAME": "BETIAH",
+    "STATION_CODE": "BTH",
+    "DIVISION": "SPJ",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "42": {
+    "Latitude": "25.5612101",
+    "Longitude": 83.9810882,
+    "STATION_NAME": "BUXAR",
+    "STATION_CODE": "BXR",
+    "DIVISION": "DNR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "43": {
+    "Latitude": "25.5822775",
+    "Longitude": 85.0436279,
+    "STATION_NAME": "DANAPUR",
+    "STATION_CODE": "DNR",
+    "DIVISION": "DNR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "44": {
+    "Latitude": "24.9151459",
+    "Longitude": 84.1855467,
+    "STATION_NAME": "DEHRI-ON-SONE",
+    "STATION_CODE": "DOS",
+    "DIVISION": "MGS",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "45": {
+    "Latitude": "25.7021728",
+    "Longitude": 85.21550340000002,
+    "STATION_NAME": "HAJIPUR JN.",
+    "STATION_CODE": "HJP",
+    "DIVISION": "SEE",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "46": {
+    "Latitude": "25.0960742",
+    "Longitude": 85.3131194,
+    "STATION_NAME": "JAMUI",
+    "STATION_CODE": "JMU",
+    "DIVISION": "DNR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "47": {
+    "Latitude": "26.5885527",
+    "Longitude": 86.13590140000001,
+    "STATION_NAME": "JAYNAGAR",
+    "STATION_CODE": "JYG",
+    "DIVISION": "SPJ",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "48": {
+    "Latitude": "25.5061504",
+    "Longitude": 86.4670358,
+    "STATION_NAME": "KHAGARIA JN.",
+    "STATION_CODE": "KGG",
+    "DIVISION": "SEE",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "49": {
+    "Latitude": "26.0981403",
+    "Longitude": 87.9498058,
+    "STATION_NAME": "KIUL JN.",
+    "STATION_CODE": "KEU",
+    "DIVISION": "DNR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "50": {
+    "Latitude": "26.3488811",
+    "Longitude": 86.07734649999999,
+    "STATION_NAME": "MADHUBANI",
+    "STATION_CODE": "MBI",
+    "DIVISION": "SPJ",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "51": {
+    "Latitude": "25.3921849",
+    "Longitude": 85.9141634,
+    "STATION_NAME": "MOKAMA",
+    "STATION_CODE": "MKA",
+    "DIVISION": "DNR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "52": {
+    "Latitude": "26.6554641",
+    "Longitude": 84.9051507,
+    "STATION_NAME": "BAPUDHAM MOTIHARI",
+    "STATION_CODE": "BMKI",
+    "DIVISION": "SPJ",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "53": {
+    "Latitude": "27.1048944",
+    "Longitude": 84.4639444,
+    "STATION_NAME": "NARKATIAGANJ JN.",
+    "STATION_CODE": "NKE",
+    "DIVISION": "SPJ",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "54": {
+    "Latitude": "25.585818",
+    "Longitude": 85.23125759999999,
+    "STATION_NAME": "PATNA SAHIB JN.",
+    "STATION_CODE": "PNC",
+    "DIVISION": "DNR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "55": {
+    "Latitude": "25.6027447",
+    "Longitude": 85.1626785,
+    "STATION_NAME": "RAJENDRA NAGAR(T)",
+    "STATION_CODE": "RJPB",
+    "DIVISION": "DNR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "56": {
+    "Latitude": "26.9868646",
+    "Longitude": 84.84472170000001,
+    "STATION_NAME": "RAUXAUL JN.",
+    "STATION_CODE": "RXL",
+    "DIVISION": "SPJ",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "57": {
+    "Latitude": "26.7586446",
+    "Longitude": 84.7393809,
+    "STATION_NAME": "SAGAULI JN.",
+    "STATION_CODE": "SGL",
+    "DIVISION": "SPJ",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "58": {
+    "Latitude": "25.8733726",
+    "Longitude": 86.594274,
+    "STATION_NAME": "SAHARSA JN.",
+    "STATION_CODE": "SHC",
+    "DIVISION": "SPJ",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "59": {
+    "Latitude": "25.8598831",
+    "Longitude": 85.7862803,
+    "STATION_NAME": "SAMASTIPUR JN.",
+    "STATION_CODE": "SPJ",
+    "DIVISION": "SPJ",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "60": {
+    "Latitude": "24.9562073",
+    "Longitude": 84.01856,
+    "STATION_NAME": "SASARAM JN.",
+    "STATION_CODE": "SSM",
+    "DIVISION": "MGS",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "61": {
+    "Latitude": "25.3148743",
+    "Longitude": 86.49287679999999,
+    "STATION_NAME": "JAMALPUR ",
+    "STATION_CODE": "JMP",
+    "DIVISION": "MLDT",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "62": {
+    "Latitude": "26.2110683",
+    "Longitude": 84.3594016,
+    "STATION_NAME": "SIWAN JN.",
+    "STATION_CODE": "SV",
+    "DIVISION": "VARANASI",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "63": {
+    "Latitude": "26.4027544",
+    "Longitude": 87.2638537,
+    "STATION_NAME": "JOGBANI",
+    "STATION_CODE": "JBN",
+    "DIVISION": "KIR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "64": {
+    "Latitude": "25.5479337",
+    "Longitude": 87.565149,
+    "STATION_NAME": "KATIHAR JN",
+    "STATION_CODE": "KIR",
+    "DIVISION": "KIR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "65": {
+    "Latitude": "26.0981403",
+    "Longitude": 87.9498058,
+    "STATION_NAME": "KISHANGANJ",
+    "STATION_CODE": "KNE",
+    "DIVISION": "KIR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "66": {
+    "Latitude": "25.7892226",
+    "Longitude": 87.5190262,
+    "STATION_NAME": "PURNEA JN",
+    "STATION_CODE": "PRNA",
+    "DIVISION": "KIR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "67": {
+    "Latitude": "25.6189135",
+    "Longitude": 88.12898620000001,
+    "STATION_NAME": "RAIGANJ",
+    "STATION_CODE": "RGJ",
+    "DIVISION": "KIR",
+    "STATE": "BIHAR",
+    "CATEGORY": "A"
+  },
+  "68": {
+    "Latitude": "21.2080656",
+    "Longitude": 81.3754392,
+    "STATION_NAME": "BHILAI POWER HOUSE",
+    "STATION_CODE": "BPHB",
+    "DIVISION": "R",
+    "STATE": "CHHATTISGARH",
+    "CATEGORY": "A"
+  },
+  "69": {
+    "Latitude": "22.034544",
+    "Longitude": 82.66497700000001,
+    "STATION_NAME": "CHAMPA JN.",
+    "STATION_CODE": "CPH",
+    "DIVISION": "BSP",
+    "STATE": "CHHATTISGARH",
+    "CATEGORY": "A"
+  },
+  "70": {
+    "Latitude": "21.1904494",
+    "Longitude": 81.28491690000001,
+    "STATION_NAME": "DURG",
+    "STATION_CODE": "DURG",
+    "DIVISION": "R",
+    "STATE": "CHHATTISGARH",
+    "CATEGORY": "A"
+  },
+  "71": {
+    "Latitude": "21.8913276",
+    "Longitude": 83.3905936,
+    "STATION_NAME": "RAIGARH",
+    "STATION_CODE": "RIG",
+    "DIVISION": "BSP",
+    "STATE": "CHHATTISGARH",
+    "CATEGORY": "A"
+  },
+  "72": {
+    "Latitude": "21.1006906",
+    "Longitude": 81.0385899,
+    "STATION_NAME": "RAJNANDGAON",
+    "STATION_CODE": "RJN",
+    "DIVISION": "NGP",
+    "STATE": "CHHATTISGARH",
+    "CATEGORY": "A"
+  },
+  "73": {
+    "Latitude": "28.7164986",
+    "Longitude": 77.17050520000001,
+    "STATION_NAME": "ADARSHNAGARDELHI",
+    "STATION_CODE": "ANDI",
+    "DIVISION": "DLI",
+    "STATE": "DELHI",
+    "CATEGORY": "A"
+  },
+  "74": {
+    "Latitude": "28.6119222",
+    "Longitude": 77.11564240000001,
+    "STATION_NAME": "DELHI CANTT.",
+    "STATION_CODE": "DEC",
+    "DIVISION": "DLI",
+    "STATE": "DELHI",
+    "CATEGORY": "A"
+  }
+}
