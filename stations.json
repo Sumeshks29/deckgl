@@ -1,0 +1,242 @@
+[
+  {
+    "index": NaN,
+    "latlong": "70.3800314, 34.220389"
+  },
+  {
+    "index": "DANAPUR",
+    "latlong": "85.0474045, 25.6358901"
+  },
+  {
+    "index": "HUBLI",
+    "latlong": "75.1379848, 15.3518378"
+  },
+  {
+    "index": "TRIVANDRUM CENTRAL",
+    "latlong": "76.9532688608587, 8.4866779"
+  },
+  {
+    "index": "AJMER",
+    "latlong": "74.639, 26.4691"
+  },
+  {
+    "index": "SEALDAH",
+    "latlong": "88.3711047, 22.5679661"
+  },
+  {
+    "index": "TIRUCHCHIRAPALLI",
+    "latlong": "78.6890508, 10.8256954"
+  },
+  {
+    "index": "VIJAYAWADA",
+    "latlong": "80.6185102, 16.5087586"
+  },
+  {
+    "index": "SAMASTIPUR",
+    "latlong": "85.916667, 25.75"
+  },
+  {
+    "index": "ASANSOL",
+    "latlong": "86.9746587, 23.6871297"
+  },
+  {
+    "index": "RAIPUR",
+    "latlong": "82.1229768974802, 20.82071695"
+  },
+  {
+    "index": "AMBALA",
+    "latlong": "76.770421, 30.3843674"
+  },
+  {
+    "index": "DHANBAD",
+    "latlong": "86.4309638, 23.7952809"
+  },
+  {
+    "index": "MUMBAI CENTRAL",
+    "latlong": "72.8192133, 18.970174"
+  },
+  {
+    "index": "PUNE",
+    "latlong": "73.8543185, 18.5203062"
+  },
+  {
+    "index": "MUMBAI",
+    "latlong": "72.8353355, 18.9387711"
+  },
+  {
+    "index": null,
+    "latlong": "7.540121, 44.933143"
+  },
+  {
+    "index": "AGRA",
+    "latlong": "78.0098161, 27.1752554"
+  },
+  {
+    "index": "BHAVNAGAR",
+    "latlong": "72.1416449, 21.7718836"
+  },
+  {
+    "index": "RATLAM",
+    "latlong": "75.166667, 23.583333"
+  },
+  {
+    "index": "KARWAR",
+    "latlong": "74.1319229, 14.8120931"
+  },
+  {
+    "index": "LUMDING",
+    "latlong": "93.1731676, 25.7535433"
+  },
+  {
+    "index": "SAMBALPUR",
+    "latlong": "83.883333, 21.4"
+  },
+  {
+    "index": "JODHPUR",
+    "latlong": "73.0351433, 26.2967719"
+  },
+  {
+    "index": "KHARAGPUR",
+    "latlong": "87.3012875, 22.34309"
+  },
+  {
+    "index": "MADRAS",
+    "latlong": "80.2838331, 13.0801721"
+  },
+  {
+    "index": "KHURDA ROAD",
+    "latlong": "26.8379726, 57.7144926"
+  },
+  {
+    "index": "MYSORE",
+    "latlong": "76.6553609, 12.3051828"
+  },
+  {
+    "index": "RAJKOT",
+    "latlong": "70.802161, 22.3045769"
+  },
+  {
+    "index": "NANDED",
+    "latlong": "77.5, 18.916667"
+  },
+  {
+    "index": "FIROZPUR",
+    "latlong": "74.416667, 30.333333"
+  },
+  {
+    "index": "BANGALORE",
+    "latlong": "77.5912997, 12.9791198"
+  },
+  {
+    "index": "SONPUR",
+    "latlong": "82.5947818084139, 27.88121275"
+  },
+  {
+    "index": "BHUSAVAL",
+    "latlong": "75.7880594, 21.0472554"
+  },
+  {
+    "index": "RANGIYA",
+    "latlong": "91.60698, 26.4467608"
+  },
+  {
+    "index": "BIKANER",
+    "latlong": "73.3171367, 28.0159286"
+  },
+  {
+    "index": "MALDA",
+    "latlong": "88.1398483, 25.0057449"
+  },
+  {
+    "index": "NAGPUR",
+    "latlong": "79.0127048991187, 21.1500964"
+  },
+  {
+    "index": "DELHI",
+    "latlong": "77.2219388, 28.6517178"
+  },
+  {
+    "index": "BILASPUR",
+    "latlong": "82.1476475, 22.0785627"
+  },
+  {
+    "index": "MUGHAL SARAI",
+    "latlong": "83.1251282, 25.2807327"
+  },
+  {
+    "index": "ALLAHABAD",
+    "latlong": "81.8338005, 25.4381302"
+  },
+  {
+    "index": "MADURAI",
+    "latlong": "78.1140983, 9.9261153"
+  },
+  {
+    "index": "JHANSI",
+    "latlong": "78.5800085, 25.4502464"
+  },
+  {
+    "index": "HYDERABAD",
+    "latlong": "78.4746286, 17.3616079"
+  },
+  {
+    "index": "MORADABAD",
+    "latlong": "78.7732864, 28.8334982"
+  },
+  {
+    "index": "KATIHAR",
+    "latlong": "87.5690417, 25.5433817"
+  },
+  {
+    "index": "GUNTUR",
+    "latlong": "80.4541588, 16.2915189"
+  },
+  {
+    "index": "AHMEDABAD",
+    "latlong": "72.5797068, 23.0216238"
+  },
+  {
+    "index": "RANCHI",
+    "latlong": "85.3250132, 23.3700354"
+  },
+  {
+    "index": "BHOPAL",
+    "latlong": "77.3962718, 23.2530923"
+  },
+  {
+    "index": "SECUNDERABAD",
+    "latlong": "78.5059176, 17.4690889"
+  },
+  {
+    "index": "JAIPUR",
+    "latlong": "75.820349, 26.916194"
+  },
+  {
+    "index": "SALEM",
+    "latlong": "-123.033121, 44.9391565"
+  },
+  {
+    "index": "JABALPUR",
+    "latlong": "79.9497702, 23.1608938"
+  },
+  {
+    "index": "VADODARA",
+    "latlong": "73.1957373, 22.297076"
+  },
+  {
+    "index": "WALTAIR",
+    "latlong": "83.2906223, 17.7214305"
+  },
+  {
+    "index": "KOTA",
+    "latlong": "76.5, 25.0"
+  },
+  {
+    "index": "VARANASI",
+    "latlong": "83.0076292, 25.3356491"
+  },
+  {
+    "index": "IZZAT NAGAR",
+    "latlong": "78.3725279, 17.4681506"
+  }
+]
